@@ -15,7 +15,7 @@ title = "Wind Tavern"
 [params.author]
   name = "Shu"
   email = "windtavern@outlook.com"
-  image = "img/pinwheel.gif"
+  image = "img/canary_bird.png"
   headline = "Welcome! This is a tavern but only offer milk."
   bio = "Me embraced wind."
   links = [
