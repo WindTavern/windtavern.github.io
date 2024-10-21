@@ -128,15 +128,15 @@ smartTOCHideUnfocusedChildren = true
   appId = "1:275319097264:web:84a762b4636afcdcebf875"
   measurementId = "G-7MLTD57XWL"
 
-[umamiAnalytics]
-  websiteid = "8ad50dda-ce3a-4de4-9d69-1b381adb1ccf"
-  domain = "windtavern.com"
-  dataDomains = "windtavern.com"
-  enableTrackEvent = false
+# [umamiAnalytics]
+#   websiteid = ""
+#   domain = ""
+#   dataDomains = ""
+#   enableTrackEvent = false
 
-[verification]
-  google = "google-site-verification=rUUrPSEsN-B1IOp6kNyPlE5xcCOUquk6h7WjhTI-d-8"
-  bing = "CNAME (alias) record with name 86705ec5e8daecfdc20ee9a13b6cd17d and value verify.bing.com."
+# [verification]
+  # google = ""
+  # bing = ""
   # pinterest = ""
   # yandex = ""
 
