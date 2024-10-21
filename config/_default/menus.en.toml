@@ -28,8 +28,15 @@
 [[main]]
   identifier = "github"
   pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
+  url = "https://github.com/windtavern"
   weight = 25
+
+[[main]]
+  identifier = "mail"
+  pre = "envelope"
+  url = "mailto:windtavern@outlook.com"
+  weight = 30
+
 
 
 # -- Footer Menu --

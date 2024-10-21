@@ -9,16 +9,16 @@ title = "Wind Tavern"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/pinwheel.png"
-  description = "Hello, we are tavern but only have milk."
+  description = "Wanna have a cup of milk?"
   copyright = "© 2024 Wind Tavern"
 
 [params.author]
   name = "Shu"
   email = "windtavern@outlook.com"
   image = "img/canary_bird.png"
-  headline = "Welcome! This is a tavern but only offer milk."
+  # headline = "Welcome! This is a tavern but only offer milk."
   bio = "Me embraced wind."
-  links = [
-    { x-twitter = "https://twitter.com/windtavern" },
-    { github = "https://github.com/windtavern" },
-  ]
+  # links = [
+  #   { x-twitter = "https://twitter.com/windtavern" },
+  #   { github = "https://github.com/windtavern" },
+  # ]
