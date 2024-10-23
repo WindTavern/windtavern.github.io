@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Wind Tavern</title>
+    <link>https://windtavern.com/blogs/</link>
+    <description>Recent content in Blogs on Wind Tavern</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>windtavern@outlook.com (Shu)</managingEditor>
+    <webMaster>windtavern@outlook.com (Shu)</webMaster>
+    <copyright>© 2024 Wind Tavern</copyright>
+    <atom:link href="https://windtavern.com/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Legend of Zelda: Breath of the Wind Original Soundtrack</title>
+      <link>https://windtavern.com/blogs/the-legend-of-zelda-breath-of-the-wind-original-soundtrack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>windtavern@outlook.com (Shu)</author>
+      <guid>https://windtavern.com/blogs/the-legend-of-zelda-breath-of-the-wind-original-soundtrack/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
