@@ -65,4 +65,152 @@
   {{ if templates.Exists "partials/extend-footer.html" }}
   {{ partialCached "extend-footer.html" . }}
   {{ end }}
+
+<!-- APlayer -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<div id="aplayer"></div>
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script>
+const ap = new APlayer({
+    container: document.getElementById('aplayer'),
+    audio: [
+      {
+        name: 'The Divine Beast of the Sky',
+        artist: 'Yasuaki Iwata',
+        cover: '/music/BOTW/BOTW.jpeg',
+        url: '/music/BOTW/2.21 The Divine Beast of the Sky.mp3',
+      },
+      {
+        name: 'Rito Village',
+        artist: 'Yasuaki Iwata',
+        cover: '/music/BOTW/BOTW.jpeg',
+        url: '/music/BOTW/2.22 Rito Village.mp3',
+      },
+      {
+        name: 'Rito Flight Range',
+        artist: 'Yasuaki Iwata',
+        cover: '/music/BOTW/BOTW.jpeg',
+        url: '/music/BOTW/2.24 Rito Flight Range.mp3',
+      },
+      {
+        name: 'Meeting Teba',
+        artist: 'Yasuaki Iwata',
+        cover: '/music/BOTW/BOTW.jpeg',
+        url: '/music/BOTW/2.25 Meeting Teba.mp3',
+      },
+      {
+        name: 'Flight Training',
+        artist: 'Yasuaki Iwata',
+        cover: '/music/BOTW/BOTW.jpeg',
+        url: '/music/BOTW/2.26 Flight Training.mp3',
+      },
+      {
+        name: 'Vah Medoh Battle',
+        artist: 'Yasuaki Iwata',
+        cover: '/music/BOTW/BOTW.jpeg',
+        url: '/music/BOTW/2.27 Vah Medoh Battle.mp3',
+      },
+      {
+        name: 'Divine Beast Vah Medoh',
+        artist: 'Yasuaki Iwata',
+        cover: '/music/BOTW/BOTW.jpeg',
+        url: '/music/BOTW/2.29 Divine Beast Vah Medoh.mp3',
+      },
+      {
+        name: 'Windblight Ganon Battle',
+        artist: 'Yasuaki Iwata',
+        cover: '/music/BOTW/BOTW.jpeg',
+        url: '/music/BOTW/2.30 Windblight Ganon Battle.mp3',
+      },
+      {
+        name: 'Reunion with Revali',
+        artist: 'Yasuaki Iwata',
+        cover: '/music/BOTW/BOTW.jpeg',
+        url: '/music/BOTW/2.31 Reunion with Revali.mp3',
+      },
+      {
+        name: 'Revali and Vah Medoh',
+        artist: 'Hajime Wakai',
+        cover: '/music/BOTW/BOTW.jpeg',
+        url: '/music/BOTW/2.32 Revali and Vah Medoh.mp3',
+      },
+      {
+        name: 'Rito Sisters',
+        artist: 'Manaka Kataoka',
+        cover: '/music/BOTW/BOTW.jpeg',
+        url: '/music/BOTW/2.36 Rito Sisters.mp3',
+      },
+      {
+        name: 'Kass\'s Theme (The Hero\'s Theme ver.)',
+        artist: 'Yasuaki Iwata',
+        cover: '/music/BOTW/BOTW.jpeg',
+        url: '/music/BOTW/2.37 Kasss Theme (The Heros Theme ver.).mp3',
+      },
+      {
+        name: 'Rito Village (Kass and Five Sisters ver.)',
+        artist: 'Yasuaki Iwata',
+        cover: '/music/BOTW/BOTW.jpeg',
+        url: '/music/BOTW/2.38 Rito Village (Kass and Five Sisters ver.).mp3',
+      },
+      {
+        name: 'Rito Village (During the Phenomenon)',
+        artist: 'Hajime Wakai',
+        cover: '/music/TOTK/TOTK.jpeg',
+        url: '/music/TOTK/2.09 Rito Village (During the Phenomenon).flac',
+      },
+      {
+        name: 'Reunion with Tulin',
+        artist: 'Masato Ohashi',
+        cover: '/music/TOTK/TOTK.jpeg',
+        url: '/music/TOTK/2.10 Reunion with Tulin.flac',
+      },
+      {
+        name: 'Colgera Appears',
+        artist: 'Masato Ohashi',
+        cover: '/music/TOTK/TOTK.jpeg',
+        url: '/music/TOTK/2.22 Colgera Appears.flac',
+      },
+      {
+        name: 'Colgera Battle (First Half)',
+        artist: 'Masato Ohashi',
+        cover: '/music/TOTK/TOTK.jpeg',
+        url: '/music/TOTK/2.23 Colgera Battle (First Half).flac',
+      },
+      {
+        name: 'Colgera Battle (Second Half)',
+        artist: 'Masato Ohashi',
+        cover: '/music/TOTK/TOTK.jpeg',
+        url: '/music/TOTK/2.24 Colgera Battle (Second Half).flac',
+      },
+      {
+        name: 'Tulin, Sage of Wind',
+        artist: 'Masato Ohashi',
+        cover: '/music/TOTK/TOTK.jpeg',
+        url: '/music/TOTK/2.29 Tulin, Sage of Wind.flac',
+      },
+      {
+        name: 'The Phenomenon Disappears',
+        artist: 'Manata Kataoka',
+        cover: '/music/TOTK/TOTK.jpeg',
+        url: '/music/TOTK/2.30 The Phenomenon Disappears.flac',
+      },
+      {
+        name: 'Rito Village (Day)',
+        artist: 'Yasuaki Iwata',
+        cover: '/music/TOTK/TOTK.jpeg',
+        url: '/music/TOTK/2.31 Rito Village (Day).flac',
+      },
+      {
+        name: 'Rito Village (Night)',
+        artist: 'Yasuaki Iwata',
+        cover: '/music/TOTK/TOTK.jpeg',
+        url: '/music/TOTK/2.32 Rito Village (Night).flac',
+      },
+    ],
+    fixed: true,
+});
+</script>
+
+
 </footer>

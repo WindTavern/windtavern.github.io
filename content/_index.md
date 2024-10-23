@@ -8,4 +8,5 @@ description: "Come and Have a Cup of Milk"
   lifeLike=true
 >}}
 Welcome! This is a tavern but only offer milk.
+
 {{< /typeit >}}
