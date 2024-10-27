@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 externalUrl: ""
 summary: ""
-showReadingTime: false
+showReadingTime: true
 _build:
   render: "false"
   list: "local"

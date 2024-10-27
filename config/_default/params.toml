@@ -129,12 +129,6 @@ smartTOCHideUnfocusedChildren = true
   appId = "1:275319097264:web:84a762b4636afcdcebf875"
   measurementId = "G-7MLTD57XWL"
 
-# [umamiAnalytics]
-#   websiteid = ""
-#   domain = ""
-#   dataDomains = ""
-#   enableTrackEvent = false
-
 # [verification]
   # google = ""
   # bing = ""

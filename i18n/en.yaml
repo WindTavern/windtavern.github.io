@@ -26,8 +26,8 @@ article:
   this_article: "This Article"
   related_articles: "Related"
   zen_mode_title:
-    enable: "Enable zen mode"
-    disable: "Disable zen mode"
+    enable: "I Wanna Zen Mode"
+    disable: "I Don't Wanna Zen Mode"
 
 author:
   byline_title: "Author"
@@ -37,30 +37,30 @@ code:
   copied: "Copied"
 
 error:
-  404_title: "Page Not Found :confused:"
-  404_error: "Error 404"
-  404_description: "It seems that the page you've requested does not exist."
+  404_title: "Nothing But Wind :thinking:"
+  404_error: "Oof, find nothing..."
+  404_description: "What You Requested Does Not Exist, Why Not Stay And Enjoy The Wind..."
 
 footer:
-  dark_appearance: "Switch to dark appearance"
-  light_appearance: "Switch to light appearance"
+  dark_appearance: "I Want It Dark"
+  light_appearance: "I Want It Light"
   powered_by: "Powered by {{ .Hugo }} &amp; {{ .Theme }}"
 
 list:
   externalurl_title: "Link to external site"
-  no_articles: "There are no articles to list here yet."
+  no_articles: "Oof, No Articles Here Yet..."
 
 nav:
-  scroll_to_top_title: "Scroll to top"
-  skip_to_main: "Skip to main content"
+  scroll_to_top_title: "Updraft Wind"
+  skip_to_main: "Bring Me To Main Content"
 
 search:
   open_button_title: "Search (/)"
-  close_button_title: "Close (Esc)"
-  input_placeholder: "Search"
+  close_button_title: "Leave (Esc)"
+  input_placeholder: "What Do You Want To Search..."
 
 sharing:
-  email: "Send via email"
+  email: "Send via Email"
   facebook: "Share on Facebook"
   linkedin: "Share on LinkedIn"
   pinterest: "Pin on Pinterest"
@@ -71,7 +71,7 @@ sharing:
   telegram: "Share via Telegram"
 
 shortcode:
-  recent_articles: "Recent"
+  recent_articles: "What's New"
 
 recent:
-  show_more: "Show More"
+  show_more: "Show Me More"

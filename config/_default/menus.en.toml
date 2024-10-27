@@ -25,11 +25,11 @@
   pageRef = "about"
   weight = 20
 
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/windtavern"
-  weight = 25
+# [[main]]
+#   identifier = "github"
+#   pre = "github"
+#   url = "https://github.com/windtavern"
+#   weight = 25
 
 [[main]]
   identifier = "mail"
