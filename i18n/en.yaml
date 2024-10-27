@@ -38,7 +38,7 @@ code:
 
 error:
   404_title: "Nothing But Wind :thinking:"
-  404_error: "Oof, find nothing..."
+  404_error: "Oof, find only wind..."
   404_description: "What You Requested Does Not Exist, Why Not Stay And Enjoy The Wind..."
 
 footer:
@@ -55,7 +55,7 @@ nav:
   skip_to_main: "Bring Me To Main Content"
 
 search:
-  open_button_title: "Search (/)"
+  open_button_title: "I Need TO Search (/)"
   close_button_title: "Leave (Esc)"
   input_placeholder: "What Do You Want To Search..."
 

@@ -8,7 +8,7 @@ title = "Wind Tavern"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/bird_house.png"
+  logo = "img/bird_house.webp"
   description = "Wanna have a cup of milk?"
   copyright = "© 2024 Shu"
 
@@ -17,7 +17,7 @@ title = "Wind Tavern"
   email = "windtavern@outlook.com"
   image = "img/canary_bird.png"
   # headline = "Welcome! This is a tavern but only offer milk."
-  bio = "Me embraced wind."
+  bio = "Me embraced the wind."
   # links = [
   #   { x-twitter = "https://twitter.com/windtavern" },
   #   { github = "https://github.com/windtavern" },
