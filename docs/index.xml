@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on Wind Tavern</title>
+    <link>https://windtavern.com/docs/</link>
+    <description>Recent content in Documentation on Wind Tavern</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>windtavern@outlook.com (Shu)</managingEditor>
+    <webMaster>windtavern@outlook.com (Shu)</webMaster>
+    <copyright>© 2024 Shu</copyright>
+    <atom:link href="https://windtavern.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Dog of Flanders</title>
+      <link>https://windtavern.com/docs/a-dog-of-flanders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>windtavern@outlook.com (Shu)</author>
+      <guid>https://windtavern.com/docs/a-dog-of-flanders/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  &lt;p&gt;NELLO, AWAKENED FROM HIS SLEEP, RAN TO HELP WITH THE REST THEN LITTLE NELLO TOOK HIS PLACE BESIDE THE CART NELLO DREW THEIR LIKENESS WITH A STICK OF CHARCOAL THE PORTALS OF THE CATHEDRAL WERE UNCLOSED AFTER THE MIDNIGHT MASS A DOG OF FLANDERS A STORY OF NÖEL&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://windtavern.com/docs/a-dog-of-flanders/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>The Little Prince</title>
+      <link>https://windtavern.com/docs/the-little-prince/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>windtavern@outlook.com (Shu)</author>
+      <guid>https://windtavern.com/docs/the-little-prince/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  &lt;p&gt;SAINT-EXUPÉRY, Antoine de (1900-44). An adventurous pilot and a lyrical poet, Antoine de Saint-Exupéry conveyed in his books the solitude and mystic grandeur of the early days of flight. He described dangerous adventures in the skies and also wrote the whimsical children&amp;rsquo;s fable &amp;lsquo;The Little Prince&amp;rsquo;.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://windtavern.com/docs/the-little-prince/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
